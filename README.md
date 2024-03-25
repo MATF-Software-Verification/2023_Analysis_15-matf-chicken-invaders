@@ -3,7 +3,7 @@
 ## O projektu
 
 - Chicken invaders je igra u kojoj zle kokoške osvajači i njihovi saradnici napadaju galaksiju Mlečni put. Cilj ove igre jeste da ih porazimo i tako oslobodimo našu galaksiju.
-- Projekat se nalazi na [linku](https://gitlab.com/matf-bg-ac-rs/course-rs/projects-2020-2021/15-matf-chicken-invaders) (main grana, heš kod komita: d86e37174d58dfafc106f3afdb5e56914e018e9d).
+- Projekat se nalazi na [linku](https://gitlab.com/matf-bg-ac-rs/course-rs/projects-2020-2021/15-matf-chicken-invaders) (main grana, heš kod komita: e5a5c19db0fd2dfb0510fb201adf7df2fbb1d8b6).
 
 
  ## Korišćeni alati
