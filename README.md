@@ -7,7 +7,9 @@
 
 
  ## Korišćeni alati
- -
+ * Valgrind
+  - Memcheck
+  - Callgrind
 
 
 ## Zaključak
