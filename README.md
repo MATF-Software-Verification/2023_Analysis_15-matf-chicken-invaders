@@ -8,8 +8,8 @@
 
  ## Korišćeni alati
  * Valgrind
-  - Memcheck
-  - Callgrind
+    - Memcheck
+    - Callgrind
 
 
 ## Zaključak
