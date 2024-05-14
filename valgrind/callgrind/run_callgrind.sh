@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -x
+set -xe
 
 valgrind --tool=callgrind --log-file="callgrind_result.txt" ./MATF_Chicken_Invaders
 
