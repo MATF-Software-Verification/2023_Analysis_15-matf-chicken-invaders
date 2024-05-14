@@ -8,8 +8,8 @@
 
 # :wrench: Korišćeni alati
  * Valgrind
-  - Memcheck
-  - Callgrind
+    - Memcheck
+    - Callgrind
 
 
 # :memo: Zaključak
