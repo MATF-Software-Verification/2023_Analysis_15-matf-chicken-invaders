@@ -10,6 +10,9 @@
  * Valgrind
     - Memcheck
     - Callgrind
+ * Clang
+    - Clang-tidy
+    - Clazy
  * Perf
 
 # :memo: Zaključak
