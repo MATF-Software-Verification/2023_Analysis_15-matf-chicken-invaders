@@ -16,6 +16,7 @@ Ovaj poduhvat nije nimalo lak jer pored poznatih neprijatelja u svemiru postoje 
     - Clang-tidy
     - Clazy
  * Perf
+ * Flawfinder
 
 # :memo: Zaključak:
 - Analizom projekta, mogli smo da vidimo da ima dosta propusta kao curenje memorije, imenovanja promenljivih, korišćenja memorije nakon što je oslobođena, itd. Većina grešaka može da se popravi uz detaljno pregledavanje rezultata rada pojedinačnih alata.
